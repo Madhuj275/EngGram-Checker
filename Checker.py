@@ -1,3 +1,10 @@
+'''
+Submitted
+Group-12
+B3-42 Madhuj Agrawal
+B3-50 Om Mooley
+'''
+
 import sys
 import spacy
 import language_tool_python
